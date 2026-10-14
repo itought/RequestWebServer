@@ -1,0 +1,12 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ConsoleApp1/ConsoleApp1.csproj" Id="066cf926-4bf5-4afe-8d3f-d687b883f421" />
+  <Project Path="RequestsWebServer/RequestsWebServer.csproj" />
+  <Project Path="WebServer.Application/WebServer.Application.csproj" Id="d9a74990-3c15-4d2f-be0d-032a92b7e6c3" />
+  <Project Path="WebServer.Domain/WebServer.Domain.csproj" Id="faf45c70-cf7d-4185-a50e-29e5551dfc45" />
+  <Project Path="WebServer.Infrastructure/WebServer.Infrastructure.csproj" Id="ce58e0b6-22b6-45cd-9f5c-cd07b970b771" />
+</Solution>

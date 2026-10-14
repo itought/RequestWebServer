@@ -399,3 +399,8 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+WebServer/RequestsWebServer/Properties/launchSettings.json
+WebServer/.dockerignore
+WebServer/RequestsWebServer/appsettings.json
+WebServer/RequestsWebServer/appsettings.Development.json
+WebServer/RequestsWebServer/Dockerfile
